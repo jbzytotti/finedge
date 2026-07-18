@@ -11,12 +11,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <!-- 🔴 كود البانر العلوي (Header Leaderboard) -->
     <!-- مثال: كود Google AdSense -->
     <!--
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
-    <ins class="adsbygoogle" style="display:block" data-ad-format="horizontal" data-ad-slot="XXXXXXXXXX"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    -->
-    <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px; min-height: 90px;">
-      <p style="margin: 0; font-size: 12px;">Ad Space - Place your header ad code above this comment</p>
+    <div style="width:728px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=363931&size=728x90" style="width:728px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:728px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+
     </div>
   `,
 
