@@ -33,13 +33,9 @@ Strategic Market Analysis and Asset Growth Projections
                 
                 
 <details class="image-strategy-spec">
-  <summary>🤖 AI Image Strategy for: Strategic Market Analysis and Asset Growth Projections</summary>
-  
-- **Prompt:** Strategic Market Analysis and Asset Growth Projections context: close-up of hands writing investment goals in a professional leather-bound notebook, soft ambient light, shallow depth of field, organized desk, featuring subtle themes of aerospace defense, realistic photography, ultra-detailed, professional lighting
-- **Negative:** fake profit, money stacks, luxury cars, stacks of cash, fake earnings dashboard, gold bars, coins, misleading results, clickbait, brand logos, trademarks, low quality, cartoonish
-- **ALT Text:** Strategic Market Analysis and Asset Growth Projections - planning / writing scene illustrating aerospace defense concepts
-- **File Name:** aerospace-defense-2026-strategic-market-analysis-planning.jpg
-- **Placement:** After this heading
+ 
+- **ALT Text:** Strategic Market Analysis and Asset Growth Projections - planning / writing scene illustrating aerospace defense
+
 
 </details>
 
