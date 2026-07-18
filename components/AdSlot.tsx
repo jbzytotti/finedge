@@ -10,6 +10,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
   "ad-header-banner": `
     <!-- 🔴 كود البانر العلوي (Header Leaderboard) -->
     <!-- مثال: كود Google AdSense -->
+    <div style="width:728px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=363931&size=728x90" style="width:728px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:728px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+
     <!--
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
     <ins class="adsbygoogle" style="display:block" data-ad-format="horizontal" data-ad-slot="XXXXXXXXXX"></ins>
