@@ -1,0 +1,6 @@
+# FinEdge - Ads.txt File
+# Replace the placeholder below with your actual ad network details (e.g., Google AdSense)
+# Format: ad_network_domain, publisher_account_id, relationship_type, certification_authority_id
+# Example for Google AdSense: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

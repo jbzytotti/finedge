@@ -1,0 +1,3 @@
+# Cloudflare Pages / Netlify routing fallback for Single Page Application (SPA)
+# This routes all clean pathnames back to index.html so the client-side router handles it
+/* /index.html 200
