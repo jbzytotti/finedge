@@ -70,6 +70,8 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-ad-slot="XXXXXXXXXX"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
+    <script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZToyMTljM2Y3Ni01ZGJhLTQ1MjgtOTg1Zi04ZGEyM2Q2MDQzYTc=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+    <br>
     <div style="width:300px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363939&size=300x250" style="width:300px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
