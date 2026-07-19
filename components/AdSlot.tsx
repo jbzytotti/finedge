@@ -33,6 +33,13 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 <div style="width:468px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363932&size=468x60" style="width:468px;height:60px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
+<br>
+<div style="width:320px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373030&size=320x100" style="width:320px;height:100px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:320px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+<br>
 <a style="display: block;text-align:right;font-size:12px;width:468px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
 </div>
 <br>
