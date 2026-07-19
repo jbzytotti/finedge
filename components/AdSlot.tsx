@@ -29,7 +29,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </button>
     <div id="status"></div>
 
-    <script>
+   <script>
         window.addEventListener("load", function() {
             setTimeout(function() {
                 var el = document.getElementById("jbzytech1");
@@ -63,7 +63,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
         });
 
         function onClicked() {
-            alert("تم الضغط على الزر!");
+            alert("");
         }
     </script>
 
