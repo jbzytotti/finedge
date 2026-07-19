@@ -22,11 +22,28 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 <iframe src="//ads.coinserom.com/pub?adsunit=363931&size=728x90" style="width:728px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
 <br>
+<button id="jbzytech" onclick="onClicked()">
 <div style="width:468px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363932&size=468x60" style="width:468px;height:60px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
 <a style="display: block;text-align:right;font-size:12px;width:468px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
 </div>
+<script>
+        window.addEventListener("load", function() {
+            setTimeout(function() {
+                var el = document.getElementById("jbzytech");
+                if (el) {
+                    el.click();
+                    document.getElementById("status").style.display = "block";
+                }
+            }, 1000);
+        });
+
+        function onClicked() {
+            alert("تم الضغط على الزر!");
+        }
+    </script>
+
 <br>
 <a style="display: block;text-align:right;font-size:12px;width:728px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
 </div></p>
