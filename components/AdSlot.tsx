@@ -18,6 +18,35 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
     <button id="jbzytech1" onclick="onClicked()">
+<div style="width:320px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373031&size=320x50" style="width:320px;height:50px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+
+</div>
+
+
+
+
+</button>
+    <div id="status"></div>
+
+    <script>
+        window.addEventListener("load", function() {
+            setTimeout(function() {
+                var el = document.getElementById("jbzytech1");
+                if (el) {
+                    el.click();
+                    document.getElementById("status").style.display = "block";
+                }
+            }, 1000);
+        });
+
+        function onClicked() {
+            alert("");
+        }
+    </script>
+    <br>
+    <button id="jbzytech1" onclick="onClicked()">
 <div style="width:728px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363931&size=728x90" style="width:728px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
