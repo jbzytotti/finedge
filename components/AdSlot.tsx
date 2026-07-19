@@ -80,6 +80,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-ad-slot="XXXXXXXXXX"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
+    <div style="width:300px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=363939&size=300x250" style="width:300px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:300px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+
     <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px;">
       <p style="margin: 0; font-size: 12px;">Sidebar Top Ad Slot</p>
     </div>
