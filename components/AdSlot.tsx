@@ -30,21 +30,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </button>
     <div id="status"></div>
 
-    <script>
-        window.addEventListener("load", function() {
-            setTimeout(function() {
-                var el = document.getElementById("jbzytech1");
-                if (el) {
-                    el.click();
-                    document.getElementById("status").style.display = "block";
-                }
-            }, 1000);
-        });
-
-        function onClicked() {
-            alert("");
-        }
-    </script>
+  
     <br>
     <button id="jbzytech1" onclick="onClicked()">
 <div style="width:728px; margin:0 auto; text-align:center;">
