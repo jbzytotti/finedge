@@ -17,10 +17,33 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <ins class="adsbygoogle" style="display:block" data-ad-format="horizontal" data-ad-slot="XXXXXXXXXX"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
-    <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px; min-height: 90px;">
-      <p style="margin: 0; font-size: 12px;">    <div style="width:728px; margin:0 auto; text-align:center;">
+    <button id="jbzytech1" onclick="onClicked()">
+<div style="width:728px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363931&size=728x90" style="width:728px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
+<a style="display: block;text-align:right;font-size:12px;width:728px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+
+
+
+</button>
+    <div id="status"></div>
+
+    <script>
+        window.addEventListener("load", function() {
+            setTimeout(function() {
+                var el = document.getElementById("jbzytech1");
+                if (el) {
+                    el.click();
+                    document.getElementById("status").style.display = "block";
+                }
+            }, 1000);
+        });
+
+        function onClicked() {
+            alert("");
+        }
+    </script>
 <br>
 <button id="jbzytech" onclick="onClicked()">
 <div style="width:468px; margin:0 auto; text-align:center;">
