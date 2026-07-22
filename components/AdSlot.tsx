@@ -83,6 +83,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </iframe>
 <a style="display: block;text-align:right;font-size:12px;width:120px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
 </div>
+<br>
+<div style="width:200px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373137&size=200x200" style="width:200px;height:200px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:200px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
 
     <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px;">
       <p style="margin: 0; font-size: 12px;">Sidebar Top Ad Slot</p>
