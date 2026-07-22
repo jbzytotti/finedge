@@ -17,6 +17,15 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <ins class="adsbygoogle" style="display:block" data-ad-format="horizontal" data-ad-slot="XXXXXXXXXX"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-83DSVLB52H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-83DSVLB52H');
+</script>
     <div style="width:970px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373139&size=970x250" style="width:970px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
