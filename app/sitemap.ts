@@ -4,7 +4,7 @@ export const dynamic = 'force-static';
 
 export default function sitemap() {
   const posts = getAllPosts();
-  const SITE_URL = 'https://finedge-28f.pages.dev';
+  const SITE_URL = 'https://finedge.cc.cd';
 
   const postEntries = posts.map(post => ({
     url: `${SITE_URL}/posts/${post.slug}`,
