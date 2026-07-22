@@ -103,7 +103,17 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
   "ad-sidebar-middle": `
     <!-- 🔴 كود الإعلان الجانبي الثاني -->
     <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px;">
-      <p style="margin: 0; font-size: 12px;">Sidebar Middle Ad Slot</p>
+      <p style="margin: 0; font-size: 12px;">
+      
+      <div style="width:336px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373230&size=336x280" style="width:336px;height:280px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:336px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+
+      
+      
+      </p>
     </div>
   `,
 
