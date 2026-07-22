@@ -17,6 +17,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <ins class="adsbygoogle" style="display:block" data-ad-format="horizontal" data-ad-slot="XXXXXXXXXX"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
+    <div style="width:970px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373139&size=970x250" style="width:970px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:970px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+<br>
     <button id="jbzytech1" onclick="onClicked()">
 <div style="width:320px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373031&size=320x50" style="width:320px;height:50px;border:0px;padding:0;background-color: transparent;overflow: auto;">
