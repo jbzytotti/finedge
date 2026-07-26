@@ -26,6 +26,19 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 
   gtag('config', 'G-83DSVLB52H');
 </script>
+ <div style="width:300px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373433&size=300x600" style="width:300px;height:600px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:300px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+
+<br>
+<div style="width:970px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373432&size=970x90" style="width:970px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:970px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+<br>
     <div style="width:970px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373139&size=970x250" style="width:970px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
@@ -85,7 +98,13 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </iframe>
 <a style="display: block;text-align:right;font-size:12px;width:250px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
 </div>
-    <br>
+   <br>
+<div style="width:240px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373434&size=240x400" style="width:240px;height:400px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:240px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+<br>
     <div style="width:300px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=363939&size=300x250" style="width:300px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
@@ -119,7 +138,18 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </iframe>
 <a style="display: block;text-align:right;font-size:12px;width:336px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
 </div>
-
+<br>
+<div style="width:125px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373436&size=125x125" style="width:125px;height:125px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:125px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
+<br>
+<div style="width:160px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373435&size=160x600" style="width:160px;height:600px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:160px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Ads by coinserom</a>
+</div>
       
       
       </p>
