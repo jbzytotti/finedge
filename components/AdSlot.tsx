@@ -26,11 +26,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 
   gtag('config', 'G-83DSVLB52H');
 </script>
- <div style="width:300px; margin:0 auto; text-align:center;">
-<iframe src="//ads.coinserom.com/pub?adsunit=373433&size=300x600" style="width:300px;height:600px;border:0px;padding:0;background-color: transparent;overflow: auto;">
-</iframe>
-<a style="display: block;text-align:right;font-size:12px;width:300px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
-</div>
+
 
 <br>
 <div style="width:970px; margin:0 auto; text-align:center;">
@@ -93,6 +89,12 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     -->
     <script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZToyMTljM2Y3Ni01ZGJhLTQ1MjgtOTg1Zi04ZGEyM2Q2MDQzYTc=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
+   <div style="width:300px; margin:0 auto; text-align:center;">
+<iframe src="//ads.coinserom.com/pub?adsunit=373433&size=300x600" style="width:300px;height:600px;border:0px;padding:0;background-color: transparent;overflow: auto;">
+</iframe>
+<a style="display: block;text-align:right;font-size:12px;width:300px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
+</div>
+<br>
    <div style="width:250px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373138&size=250x250" style="width:250px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
