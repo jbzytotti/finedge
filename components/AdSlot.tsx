@@ -27,6 +27,9 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
   gtag('config', 'G-83DSVLB52H');
 </script>
 
+<script>(function(s){s.dataset.zone='11428126',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+
+
 
 <br>
 <div style="width:970px; margin:0 auto; text-align:center;">
