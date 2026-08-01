@@ -31,8 +31,9 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 
 
       <script async src="https://appsha-prm.ctengine.io/js/script.js?wkey=2LyguNI6ZO"></script>
-    
-
+    <div>
+<iframe src="https://ad2bitcoin.com/ad.php?ref=56420&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe>
+</div>
 <br>
 <div style="width:970px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373432&size=970x90" style="width:970px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
