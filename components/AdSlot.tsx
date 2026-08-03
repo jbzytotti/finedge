@@ -34,7 +34,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
   height="100" 
   sandbox="allow-same-origin allow-scripts allow-popups allow-forms" 
   src="https://www.goldenclix.com/?ref=jbzytech1">
-</iframe><div>
+</iframe>
 
 </div>
     <div>
