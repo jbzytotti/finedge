@@ -28,9 +28,15 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 </script>
 
 <script>(function(s){s.dataset.zone='11428126',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<div>
+ <div><iframe 
+  width="400" 
+  height="100" 
+  sandbox="allow-same-origin allow-scripts allow-popups allow-forms" 
+  src="https://www.goldenclix.com/?ref=jbzytech1">
+</iframe><div>
 
-
-      <script async src="https://appsha-prm.ctengine.io/js/script.js?wkey=2LyguNI6ZO"></script>
+</div>
     <div>
 <iframe src="https://ad2bitcoin.com/ad.php?ref=56420&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe>
 </div>
