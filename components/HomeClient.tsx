@@ -52,7 +52,7 @@ export default function HomeClient({ posts }: HomeProps) {
       <section className="max-w-7xl mx-auto w-full px-4 md:px-8 pt-6 select-none">
         <AdSlot id="ad-header-banner" type="header" />
       </section>
-
+<script src="https://quge5.com/88/tag.min.js" data-zone="264199" async data-cfasync="false"></script>
       <div className="max-w-7xl mx-auto px-2 sm:px-4 md:px-8 py-4 sm:py-8 flex-1 w-full grid grid-cols-12 gap-3 sm:gap-6 md:gap-8">
         <main className="col-span-7 sm:col-span-8 lg:col-span-8 flex flex-col">
           <div className="space-y-8">
