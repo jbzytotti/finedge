@@ -29,12 +29,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 
 <script>(function(s){s.dataset.zone='11428126',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
 <div>
- <div><iframe 
-  width="400" 
-  height="100" 
-  sandbox="allow-same-origin allow-scripts allow-popups allow-forms" 
-  src="https://www.goldenclix.com/?ref=jbzytech1">
-</iframe>
+ <div><a target="_blank"   href="https://www.goldenclix.com/?ref=jbzytech1"><img   src="http://www.goldenclix.com/images/banner3.png"   border="0" width="468" height="60" /></a>
 
 </div>
     <div>
