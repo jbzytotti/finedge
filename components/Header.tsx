@@ -19,7 +19,7 @@ export default function Header({ activeCategory, onCategoryChange, searchQuery, 
   return (
     <header className="sticky top-0 bg-[#030712]/95 backdrop-blur-md border-b border-slate-900 z-40 px-4 md:px-8 py-4 transition-all">
      
-      <script src="https://quge5.com/88/tag.min.js" data-zone="264199" async data-cfasync="false"></script>
+    
       
       
       
