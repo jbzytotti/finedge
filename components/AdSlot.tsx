@@ -27,11 +27,8 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
   gtag('config', 'G-83DSVLB52H');
 </script>
 
-<script>(function(s){s.dataset.zone='11428126',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
-<div>
- <div><a target="_blank"   href="https://www.goldenclix.com/?ref=jbzytech1"><img   src="http://www.goldenclix.com/images/banner3.png"   border="0" width="468" height="60" /></a>
 
-</div>
+
     <div>
 <iframe src="https://ad2bitcoin.com/ad.php?ref=56420&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe>
 </div>
