@@ -20,9 +20,24 @@ export default function Header({ activeCategory, onCategoryChange, searchQuery, 
     <header className="sticky top-0 bg-[#030712]/95 backdrop-blur-md border-b border-slate-900 z-40 px-4 md:px-8 py-4 transition-all">
      
     
-      
-      
-      
+      <script>
+      // next.config.ts
+export default {
+  async headers() {
+    return [
+      {
+        source: "/_next/static/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+        ],
+      },
+    ];
+  },
+};
+    </script>  
       
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center gap-6">
