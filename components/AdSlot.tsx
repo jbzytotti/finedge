@@ -33,6 +33,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 <iframe src="https://ad2bitcoin.com/ad.php?ref=56420&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe>
 </div>
 <br>
+<div><iframe src="https://jbzy2tech.blogspot.com/2026/08/1.html" width="400%" height="90px" name="myiFrame" scrolling="no" style="border: none; border-radius: 10px" loading="lazy" allowfullscreen sandbox="allow-scripts allow-same-origin allow-forms"></iframe></div>
 <div style="width:970px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373432&size=970x90" style="width:970px;height:90px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
