@@ -31,7 +31,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
 
     <div>
 <iframe src="https://ad2bitcoin.com/ad.php?ref=56420&width=468" marginwidth="0" marginheight="0" width="468" height="60" scrolling="no" border="0" frameborder="0"></iframe>
-</div>
+</div><br>
 <div>
 <iframe src="https://jbzy2tech.blogspot.com/" width="400px" height="90px" name="myiFrame" scrolling="no" style="border: none; border-radius: 10px" loading="lazy" allowfullscreen sandbox="allow-scripts allow-same-origin allow-forms"></iframe>
 </div>
