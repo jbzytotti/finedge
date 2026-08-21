@@ -133,7 +133,7 @@ export default function HomeClient({ posts }: HomeProps) {
             </div>
           </div>
         </main>
-
+<meta name="profiton-domain-verification" content="02fcd88ae6cecb5c11376f7d8fbfdd8ca8fe96f8cd1c4c87a1940ef0470ae75d" />
         <aside className="col-span-5 sm:col-span-4 lg:col-span-4 space-y-4 sm:space-y-8">
           <AdSlot id="ad-sidebar-top" type="sidebar" />
           <AdSlot id="ad-sidebar-middle" type="sidebar" />
