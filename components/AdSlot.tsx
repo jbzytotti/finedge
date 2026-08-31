@@ -106,19 +106,7 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
                             style='border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
         </div>
         <br>
-        <script>
-(function(tifrk){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = tifrk || {};
-s.src = "\/\/untimely-hello.com\/bSX_V.sTdNGclO0xYLW-cU\/GeImR9\/uTZmUYlXkmP\/TlcSz\/NHj\/kw4hNGjekltEN\/zbMt2\/O_T\/gJ3KMFwN";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>
-<br>
+       
 <!-- END AADS AD UNIT 2450322 -->
    <div style="width:300px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373433&size=300x600" style="width:300px;height:600px;border:0px;padding:0;background-color: transparent;overflow: auto;">
@@ -165,7 +153,19 @@ l.parentNode.insertBefore(s, l);
     <!-- 🔴 كود الإعلان الجانبي الثاني -->
     <div style="text-align: center; padding: 20px; color: #94a3b8; border: 1px dashed rgba(148,163,184,0.3); border-radius: 12px;">
       <p style="margin: 0; font-size: 12px;">
-      
+       <script>
+(function(tifrk){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = tifrk || {};
+s.src = "\/\/untimely-hello.com\/bSX_V.sTdNGclO0xYLW-cU\/GeImR9\/uTZmUYlXkmP\/TlcSz\/NHj\/kw4hNGjekltEN\/zbMt2\/O_T\/gJ3KMFwN";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
+<br>
       <div style="width:336px; margin:0 auto; text-align:center;">
 <iframe src="//ads.coinserom.com/pub?adsunit=373230&size=336x280" style="width:336px;height:280px;border:0px;padding:0;background-color: transparent;overflow: auto;">
 </iframe>
