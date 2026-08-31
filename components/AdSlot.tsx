@@ -99,7 +99,19 @@ export const CUSTOM_AD_CODES: Record<string, string> = {
     <script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZToyMTljM2Y3Ni01ZGJhLTQ1MjgtOTg1Zi04ZGEyM2Q2MDQzYTc=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
  
    <!-- BEGIN AADS AD UNIT 2450322 -->
-
+<script>
+(function(tifrk){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = tifrk || {};
+s.src = "\/\/untimely-hello.com\/bSX_V.sTdNGclO0xYLW-cU\/GeImR9\/uTZmUYlXkmP\/TlcSz\/NHj\/kw4hNGjekltEN\/zbMt2\/O_T\/gJ3KMFwN";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
+<br>
 <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
           <iframe data-aa='2450322' src='//acceptable.a-ads.com/2450322/?size=Adaptive'
                             style='border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
