@@ -51,6 +51,7 @@ export default function HomeClient({ posts }: HomeProps) {
 
       <section className="max-w-7xl mx-auto w-full px-4 md:px-8 pt-6 select-none">
         <AdSlot id="ad-header-banner" type="header" />
+        <meta name="referrer" content="no-referrer-when-downgrade" />
       </section>
 <script data-cfasync="false" async type="text/javascript" src="//nn.harmeracta.com/rmYt9DMg8lm/151058"></script>
       <div className="max-w-7xl mx-auto px-2 sm:px-4 md:px-8 py-4 sm:py-8 flex-1 w-full grid grid-cols-12 gap-3 sm:gap-6 md:gap-8">
